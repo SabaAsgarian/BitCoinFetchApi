@@ -1,0 +1,8 @@
+body{
+
+    background-image: url(../img/bg.gif);
+    background-size: cover;
+}
+#price{
+    z-index: 9999;
+}
